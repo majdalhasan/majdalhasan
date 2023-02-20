@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Majd Alhasan</h1>
 <h3 align="center" style="color: #1da1f2;">A passionate Junior Full Stack developer from Syria </h3>
-<img align="center" alt="coding" width="400" src="[![image](https://user-images.githubusercontent.com/94524369/220098368-875061bd-f7f4-4983-8314-c8951d26c4ca.png)](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/94524369/220098873-9426f3bb-b017-42e0-9521-d719d22fe310.png)
 " >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majdalhasan&label=Profile%20views&color=0e75b6&style=flat" alt="majdalhasan" /> </p>
