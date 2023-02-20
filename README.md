@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Majd Alhasan</h1>
-<h3 align="center">A passionate Junior Full Stack developer from Syria</h3>
+<h3 align="center">A passionate Junior Full Stack developer from Syria <style>color: blue;</style></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majdalhasan&label=Profile%20views&color=0e75b6&style=flat" alt="majdalhasan" /> </p>
 
