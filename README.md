@@ -20,8 +20,8 @@
 <p align="left">
 <a href="https://twitter.com/majdalhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="majdalhasan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/majdalhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="majdalhasan" height="30" width="40" /></a>
-<a href="https://fb.com/majdalhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="majdalhasan" height="30" width="40" /></a>
-<a href="https://instagram.com/majdalhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="majdalhasan" height="30" width="40" /></a>
+<a href="https://fb.com/majdalhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="majd.alhasan.6" height="30" width="40" /></a>
+<a href="https://instagram.com/majdalhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="majd_alhasan" height="30" width="40" /></a>
 <a href="https://www.behance.net/majdalhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="majdalhasan" height="30" width="40" /></a>
 <a href="https://discord.gg/majdalhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="majdalhasan" height="30" width="40" /></a>
 </p>
