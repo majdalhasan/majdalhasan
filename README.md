@@ -40,3 +40,4 @@
 
     - Arabic (Primary)
     - English
+    - Turkish
